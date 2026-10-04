@@ -1,0 +1,20 @@
+{
+  "movingelevators:recipes/elevator_block": {
+    "criteria": {
+      "recipe_condition": "2026-10-04 13:33:57 +0500"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/root": {
+    "criteria": {
+      "tick": "2026-10-04 13:33:59 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2026-10-04 13:36:33 +0500"
+    },
+    "done": true
+  }
+}
